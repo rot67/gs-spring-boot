@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'ubuntu:latest' # Hosted Ubuntu 
+  vmImage: ubuntu:latest # Hosted Ubuntu 
   demands: maven
 
 steps:
